@@ -1,4 +1,3 @@
 Hello world! :D!
 Hello world :(
-Hello world! :)!
 hello
